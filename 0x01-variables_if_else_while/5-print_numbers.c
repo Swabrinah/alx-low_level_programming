@@ -7,9 +7,9 @@
 
 
 /**
- * main - The main function is the entry point
+ * main - the main function is the entry point
  *
- * The progam prints single digit numbers
+ * the program prints numbers with the base 10
  *
  * Return: Always 0 (Success)
  */
@@ -23,11 +23,13 @@ int main(void)
 	int i;
 
 
+
 	for (i = 0; i < 10; i++)
 
-		 printf("%d", i);
+		printf("%d", i);
 
-	 printf("\n");
+	printf("\n");
+
 
 
 	return (0);
