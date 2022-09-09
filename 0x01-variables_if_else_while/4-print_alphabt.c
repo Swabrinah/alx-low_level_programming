@@ -7,7 +7,6 @@
 
 
 /**
-
  * main - The main function is the entry point
  *
  * the program prints alphabet in lowercase
