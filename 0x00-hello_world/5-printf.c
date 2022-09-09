@@ -5,16 +5,17 @@
 /**
  * main - The main function is the entry point
  *
- * the program prints out the sentence proper grammar 
+ * The program prints the words with proper grammar
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 
 {
 
-		printf("with proper grammar, but the outcome is a piece of art,\n");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 
-			return (0);
+	return (0);
 
 }
