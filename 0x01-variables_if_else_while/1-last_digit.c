@@ -7,7 +7,6 @@
 
 
 /**
-
  * main - the main function is the entry point
  *
  * the program assigns random variables
