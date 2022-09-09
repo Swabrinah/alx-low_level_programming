@@ -5,7 +5,7 @@
 /**
  * main - The main function is the entry point
  *
- * The program prints the phrase Programming is like building a multilingual puzzle
+ * The program prints the phrase Programming
  *
  * Return: Always 0 (Success)
  */
