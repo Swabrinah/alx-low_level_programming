@@ -8,7 +8,6 @@
  * the program prints out the sentence proper grammar 
  *
  * Return: Always 0 (Success)
- *
  */
 
 int main(void)
