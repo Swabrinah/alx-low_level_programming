@@ -3,13 +3,12 @@
 
 
 /**
-
- * main - Entry point
-
+ * main - The main function is the entry point
  *
-
+ * the program prints out the sentence proper grammar 
+ *
  * Return: Always 0 (Success)
-
+ *
  */
 
 int main(void)
