@@ -6,6 +6,7 @@
  *  min loop counts mins, while hour loop counts hours and resets mins
  *  Return: 0
  */
+
 void jack_bauer(void)
 
 {
@@ -13,6 +14,7 @@ void jack_bauer(void)
 	int minutes = 0;
 	int hours_remainder;
 	int mins_remainder;
+
 	while (hours <= 23)
 	{
 	while (minutes <= 59)
