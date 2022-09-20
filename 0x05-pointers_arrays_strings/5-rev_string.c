@@ -6,8 +6,7 @@
 
 /**
 * rev_string - Reverses a string
-* @s: string to be reverse
-* 
+* @s: string to be reverse 
 * Return: nothing
 */
 
@@ -16,7 +15,6 @@
 void rev_string(char *s)
 
 {
-
 	int i, tmp, len = _strlen(s);
 
 
