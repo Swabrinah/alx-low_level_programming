@@ -5,15 +5,10 @@
 
 
 /**
-
  * puts2 - prints every other character
-
  * @str: string
-
  *
-
  * Return: nothing
-
  */
 
 

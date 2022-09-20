@@ -5,15 +5,9 @@
 
 
 /**
-
 * rev_string - Reverses a string
-
 * @s: string to be reversed
-
-*
-
 * Return: nothing
-
 */
 
 
