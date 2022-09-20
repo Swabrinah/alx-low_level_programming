@@ -9,13 +9,9 @@
 
 
 /**
-
  * main - entry point
-
  *
-
  * Return: generated password
-
  */
 
 
