@@ -3,14 +3,11 @@
 #include "main.h"
 
 
-
 /**
 * rev_string - Reverses a string
 * @s: string to be reverse 
 * Return: nothing
 */
-
-
 
 void rev_string(char *s)
 {
