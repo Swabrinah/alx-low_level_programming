@@ -3,32 +3,33 @@
 
 
 /**
- * reverse_array - a function that reverse an array.
- * @a: an input array
- * @n: number of elements of array
- * Return: Nothing
- */
+
+*  reverse_array - function that reverse content of array
+
+*  @a: array
+
+*  @n: number of elements
+
+*/
+
+
 
 void reverse_array(int *a, int n)
 
 {
 
-	int i = 0;
+int tmp, index;
 
-	int aux;
+for (index = n - 1; index > n / 2; index--)
 
+{
 
+tmp = a[n - 1 - index];
 
-	while (i < n--)
+a[n - 1 - index] = a[index];
 
-	{
+a[index] = tmp;
 
-		aux = a[i];
-
-		a[i++] = a[n];
-
-		a[n] = aux;
-
-	}
+}
 
 }
